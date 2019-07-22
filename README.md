@@ -1,6 +1,6 @@
 ### Introduction
 
-In this Project we have extracted the data from all the event generated from the csv file and create a deformalized dataset 
+In this Project we have extracted the data from all the event generated from the csv file and dataset 
 event_datafile_new.csv.
 
 Then model the data tables based on the queries which we need to execute.
