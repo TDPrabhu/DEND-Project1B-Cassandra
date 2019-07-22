@@ -9,7 +9,7 @@ Once the data tables are created based on the queries, we will load data in to t
 
 ### ETL PIPELINE
 
-In the first section of the notebook, we have extracted the data from all the csv file generated and created a deformalized dataset.
+In the first section of the notebook, we have extracted the data from all the csv file generated.
 
 In the next section comes the real picture, where we need to model the data tables based on the queries.
 
